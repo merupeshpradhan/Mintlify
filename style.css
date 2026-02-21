@@ -242,7 +242,7 @@ header.scrolled .right-btn-sec {
 
 .right-container {
   width: 248.609px;
-  height: 33.5px;
+  height: 33.5px; 
   display: flex;
   gap: 0.5rem;
 }
@@ -270,7 +270,7 @@ header.scrolled .right-btn-sec {
 
 .right-btn-sec {
   width: 117.14px;
-  background-color: #fff;
+  background-color: #fff; 
   border: 1px solid #fff;
   color: #08090a;
 }
@@ -326,7 +326,7 @@ header.scrolled .right-btn-sec {
 
 .hero-heading {
   font-size: var(--text-lg);
-  line-height: 150%;
+  line-height: 150%; 
   max-width: 29.5rem;
   margin-top: calc(var(--spacing) * 6);
 }
@@ -343,7 +343,7 @@ header.scrolled .right-btn-sec {
   border-radius: 3.40282e38px;
   gap: calc(var(--spacing) * 1.5);
   max-width: 22.5rem;
-  width: 360px;
+  width: 360px; 
   height: 43.5px;
   margin-top: calc(var(--spacing) * 8);
   padding: 4px;
@@ -379,7 +379,7 @@ header.scrolled .right-btn-sec {
   color: #08090a;
   border-style: var(--tw-border-style);
   border-width: 1px;
-  border-radius: 3.40282e38px;
+  border-radius: 3.40282e38px; 
   gap: calc(var(--spacing) * 1.5);
   --tw-font-weight: var(--font-weight-medium);
   font-weight: var(--font-weight-medium);
